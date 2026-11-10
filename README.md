@@ -1,15 +1,13 @@
  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:142B52,100:2563EB&height=220&section=header&text=Nurti&fontSize=62&fontColor=EAF2FF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Learning%20C%20%7C%20Building%20Projects&descAlignY=58&descSize=17" width="100%" />
 
-<img src="./learning-c-banner.svg" width="100%" alt="Learning C — From Python to C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Python+Enthusiast;Currently+Learning+C;Building+Cool+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nurti+%F0%9F%91%8B;Python+Developer+in+Progress;Currently+Learning+C;Building+Cool+Things" alt="Typing SVG" />
+  <br/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Learning-C-0D1117?style=for-the-badge&logo=c&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/C-Learning-0D1117?style=for-the-badge&logo=c&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
