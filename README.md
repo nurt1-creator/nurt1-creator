@@ -35,6 +35,30 @@ Hey! I'm **Nurti**, a developer who enjoys building things with code.
 - Python — building applications and improving my skills.
 - C — learning programming fundamentals and low-level concepts.
 
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:142B52,100:2563EB&height=190&section=header&text=LEARNING%20C&fontSize=48&fontColor=EAF2FF&animation=fadeIn&fontAlignY=38&desc=From%20Python%20to%20C%20-%20one%20step%20at%20a%20time&descAlignY=60&descSize=16" width="100%" alt="Learning C banner"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=560&lines=Starting+my+C+journey;Learning+the+fundamentals;Turning+ideas+into+code" alt="Typing animation"/>
+
+</div>
+
+## 🔹 My C Learning Roadmap
+
+> Every expert was once a beginner. One step at a time.
+
+- [ ] 📘 C syntax, variables and data types
+- [ ] 🔄 Conditions, loops and functions
+- [ ] 📦 Arrays, strings and structures
+- [ ] 🧠 Pointers and memory
+- [ ] ⚙️ Build my first C project
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Current%20Focus-C%20Fundamentals-142B52?style=for-the-badge&logo=c&logoColor=60A5FA" />
+
+</div>
+
 ## 🚀 Featured Projects
 
 <div align="center">
