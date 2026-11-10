@@ -48,43 +48,49 @@ Hey! I'm **Nurti** — a developer who enjoys experimenting with code, building 
 
 <div align="center">
 
+<h2>🚀 Featured Projects</h2>
+
+<div align="center">
+
 <a href="https://github.com/nurt1-creator/olx-parser">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurt1-creator&repo=olx-parser&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nurt1-creator&repo=olx-parser&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
 </a>
 
 <a href="https://github.com/nurt1-creator/habit_tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurt1-creator&repo=habit_tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nurt1-creator&repo=habit_tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
 </a>
 
 <a href="https://github.com/nurt1-creator/dotfiles">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurt1-creator&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nurt1-creator&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
 </a>
 
 <a href="https://github.com/nurt1-creator/swipe-wallet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurt1-creator&repo=swipe-wallet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nurt1-creator&repo=swipe-wallet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
 </a>
-
-<a href="https://github.com/nurt1-creator/cs2-voice-listener">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurt1-creator&repo=cs2-voice-listener&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
-</a>
+</div>
 
 </div>
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nurt1-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" />
+<img height="165"
+src="https://github-stats-extended.vercel.app/api?username=nurt1-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurt1-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" />
+<img height="165"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=nurt1-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" />
 
 <br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=nurt1-creator&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
+<img width="85%"
+src="https://streak-stats.demolab.com?user=nurt1-creator&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
 
 </div>
+
 
 ---
 
